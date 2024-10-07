@@ -35,8 +35,8 @@
     srcset="https://raw.githubusercontent.com/Vasyl24/snk/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Vasyl24/snk/output/github-contribution-grid-snake.svg"
+    alt=" contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Vasyl24/Vasyl24/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
