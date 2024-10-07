@@ -19,12 +19,13 @@
     <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40"/>
 </div>
 
-###
-
 [![Vasyl Shaposhnyk profile views](https://u8views.com/api/v1/github/profiles/118126367/views/day-week-month-total-count.svg)](https://u8views.com/github/Vasyl24)
 
-###
+<p></p>
+<div align="center" style="padding: 20px 0;">
+  <img style="height: auto; width: 60%;" src="https://github-readme-stats.vercel.app/api?username=Vasyl24&title_color=434d58&text_color=434d58&bg_color=ffffff&show_icons=true&icon_color=ffc736&count_private=true&hide_border=true&custom_title=Vasyl24" />
+</div>
 
 ![Snake animation](https://raw.githubusercontent.com/Vasyl24/Vasyl24/output/github-contribution-grid-snake-dark.svg)
 
-###
+
