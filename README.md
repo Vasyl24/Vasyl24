@@ -19,4 +19,14 @@
     <img src="./assets/figma-logo.svg" alt="figma" width="40" height="40"/>
 </div>
 
+###
+
 [![Vasyl Shaposhnyk profile views](https://u8views.com/api/v1/github/profiles/118126367/views/day-week-month-total-count.svg)](https://u8views.com/github/Vasyl24)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Vasyl24/Vasyl24/output/snake.svg" alt="Snake animation" />
+
+###
