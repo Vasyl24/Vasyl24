@@ -21,7 +21,7 @@
 
 <p></p>
 <div align="center" style="padding: 20px 0;">
-  <img style="height: auto; width: 60%;" src="https://github-readme-stats.vercel.app/api?username=Vasyl24&title_color=ffc736&text_color=434d58&bg_color=ffffff&show_icons=true&icon_color=ffc736&count_private=true&hide_border=true&custom_title=Vasyl24" />
+  <img style="height: auto; width: 60%;" src="https://github-readme-stats.vercel.app/api?username=Vasyl24&title_color=ffc736&text_color=d1d7e0&bg_color=262c36&show_icons=true&icon_color=ffc736&count_private=true&hide_border=true&custom_title=Vasyl24" />
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/Vasyl24/Vasyl24/output/github-contribution-grid-snake-dark.svg)
