@@ -26,4 +26,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/Vasyl24/Vasyl24/output/github-contribution-grid-snake-dark.svg)
 
+<!-- bcg-statistic: #262c36-->
+
 
